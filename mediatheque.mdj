@@ -5,61 +5,6 @@
 	"ownedElements": [
 		{
 			"_type": "UMLModel",
-			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
-			"_parent": {
-				"$ref": "AAAAAAFF+h6SjaM2Hec="
-			},
-			"name": "Model",
-			"ownedElements": [
-				{
-					"_type": "UMLClassDiagram",
-					"_id": "AAAAAAFF+qBtyKM79qY=",
-					"_parent": {
-						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
-					},
-					"name": "Main",
-					"defaultDiagram": true
-				}
-			]
-		},
-		{
-			"_type": "UMLModel",
-			"_id": "AAAAAAGPBizrJFuPJaM=",
-			"_parent": {
-				"$ref": "AAAAAAFF+h6SjaM2Hec="
-			},
-			"name": "Model1",
-			"ownedElements": [
-				{
-					"_type": "UMLPackageDiagram",
-					"_id": "AAAAAAGPBizrJFuQF9c=",
-					"_parent": {
-						"$ref": "AAAAAAGPBizrJFuPJaM="
-					},
-					"name": "PackageDiagram1"
-				}
-			]
-		},
-		{
-			"_type": "UMLModel",
-			"_id": "AAAAAAGPBi2BJFuUl8A=",
-			"_parent": {
-				"$ref": "AAAAAAFF+h6SjaM2Hec="
-			},
-			"name": "Model2",
-			"ownedElements": [
-				{
-					"_type": "UMLObjectDiagram",
-					"_id": "AAAAAAGPBi2BJFuV0MQ=",
-					"_parent": {
-						"$ref": "AAAAAAGPBi2BJFuUl8A="
-					},
-					"name": "ObjectDiagram1"
-				}
-			]
-		},
-		{
-			"_type": "UMLModel",
 			"_id": "AAAAAAGPBi6fKlubeAI=",
 			"_parent": {
 				"$ref": "AAAAAAFF+h6SjaM2Hec="
@@ -2265,7 +2210,7 @@
 											"top": 187,
 											"width": 226,
 											"height": 13,
-											"text": "Se déconecter"
+											"text": "Se déconnecter"
 										},
 										{
 											"_type": "LabelView",
@@ -8538,7 +8483,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGPBi6fKlubeAI="
 					},
-					"name": "Se déconecter"
+					"name": "Se déconnecter"
 				},
 				{
 					"_type": "UMLUseCase",
